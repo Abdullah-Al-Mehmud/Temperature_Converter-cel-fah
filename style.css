@@ -1,0 +1,25 @@
+* {
+  font-family: "Jost", sans-serif;
+}
+body {
+  background: #1e272e;
+  color: antiquewhite;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  padding-top: 100px;
+}
+textarea {
+  width: 50%;
+  border-color: blue;
+  outline: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+}
+p {
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
